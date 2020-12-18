@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+*{margin: 0;padding: 0;
+	box-sizing: border-box;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;}
+body{font-family: 'Roboto'
+font-size:16px;
+line-height: 1.6;
+color: #333;background-color: #e7e8f1 
+}
+img{max-width: 100%}
+section{width: 100%}
+header.row{align-items: center;}
+.row{display: flex;width: 100%
+flex-wrap: wrap;
+}
+nav{width: 80%;padding-right:40px }
+nav ul{list-style: none;
+display: flex;
+justify-content: flex-end;padding-right:200px ; 
+}
+nav ul li{padding-right:40px ;padding-top:22px ;}
+nav ul li a{
+display: block;
+text-decoration: none;
+color: #333;
+font-size:50px;
+}
+nav ul li a:hover{color: green}
+.btn a{
+	background-color: #15c563;color: #fff;
+	text-decoration: none;display: inline-block;
+	padding: 15px 100px;font-size: 25px
+}
+.btn a:hover{color: green}
+.ima{background-image:url(../images/1.jpg) ;background-size: cover}
+.heading{text-align: center; background-color: #f4433691;padding-bottom: 5px;padding-top: 5px}
+.heading img{width:15px}
+.day{width: 20%; margin: 0;padding-left: 40px}
+.day h1{font-size: 50px}
+.logo{width: 10%;padding-top: 15px}
+.first nav{width: 70%}
+.first{margin: 0}
+.logo img{width: 30px}
+.better h1{font-size: 60px;padding-right: 700px;padding-left: 100px;padding-top: 200px;padding-bottom: 50px}
+.btn{padding-left: 100px;padding-bottom: 300px}
+.start h1{font-size: 40px}
+.start{text-align: center;padding-right: 400px;padding-left: 400px}
+.logo-1 img{width: 200px}
+.logo-1{padding-top: 60px;padding-bottom: 5px}
+.gap{padding-bottom: 15px}
+.banner{background-color: #e7e8f1;}
+.col-6{width: 25%;}
+.simble{padding-left: 300px;padding-right: 150px;padding-bottom: 50px;}
+.essential h2{text-align: center;font-size: 50px}
+.left{padding-left: 400px}
+.our h2{text-align: center;font-size: 40px}
+.our
+.col-3{width: 33.33%;padding: 50px;text-align: center;}
+.col-3 img{width: 200px}
+.col-3-1 img{width: 200px}
+.col-3-1{width: 33.33%;padding-left: 200px;padding-top: 50px;text-align: center}
+.col-3-2{width: 33.33%;padding-right: 200px;padding-top: 50px;text-align: center}
+.col-3-2 img{width: 200px}
+.stuff h2{font-size: 40px;text-align: center;}
+.col{width: 33.33%;padding:30px;text-align: center;}
+.col h3{font-size: 25px}
+.col p{font-size:15px;color: #333 }
+.container{padding-left:100px ;padding-right:100px;padding-top:50px;padding-bottom:50px ;}
+.col img{width:250px}
+.discover h2{text-align: center;font-size: 40px}
+.discover{width: 100%;padding-right:400px ;padding-left: 400px}
+
+.footer{width: 100%; background-color: #475f5ff7;padding-top:50px
+ ;padding-bottom:50px ;padding-left:100px ;padding-right: 150px}
+.subscribe h3{color: #fff}
+.subscribe{width: 35%}
+.shop{width: 20%}
+.logo-2{width: 25%;color: #fff}
+.shape{width: 45%}
+.input{width: 70%;}
+.input input{width: 100%;
+border: 1px solid #525252}
+.submit{width: 30%}
+.submit input{width: 100%;}
+.shop h3{color: #fff}
